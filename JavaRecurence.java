@@ -1,4 +1,3 @@
-package methodes;
 
 public class JavaRecurence {
     public static int calculateFactorial(int n) {
