@@ -1,6 +1,16 @@
 {
     "java.project.sourcePaths": [
         "inheritance",
-        "ArrayReversing.java"
-    ]
+        "Polymerfism",
+        "INHRITACEJAVA/packge3",
+        "INHRITACEJAVA/package1",
+        "INHRITACEJAVA/Package2",
+        "Ecabsulation",
+        "DisplayEmpInfo.java",
+        "ArrayReversing.java",
+        ".vscode/TrickCode",
+        ".vscode/Arguments",
+        "Abstraction"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
